@@ -7,10 +7,10 @@ import { Buffer } from 'buffer'
 
 global.Buffer = global.Buffer || require('buffer').Buffer;
 
-const S3_BUCKET = 'YOUR_ACCESS_KEY';
-const REGION = 'YOUR_REGION';
-const ACCESS_KEY = 'YOUR_ACCESS_KEY';
-const SECRET_ACCESS_KEY = 'YOUR_SECRET_ACCESS_KEY';
+const S3_BUCKET = 'accident-detection-db';
+const REGION = 'ap-south-1';
+const ACCESS_KEY = 'AKIAWRZ2CTB7PCE5PVKQ';
+const SECRET_ACCESS_KEY = 'BFwwutXVSb1VndVNaCgEoxERd8evVwefjoht/blc';
 
 
 
